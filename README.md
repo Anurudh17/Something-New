@@ -1,2 +1,0 @@
-# Something-New
-Personal Development
